@@ -1,0 +1,23 @@
+{
+  "name": "ckeditor-tailwind-reset",
+  "version": "1.0.0",
+  "description": "package to reset tailwind style in ckeditor wysiwyg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSurya99/ckeditor-tailwind-reset.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "ckeditor"
+  ],
+  "author": "Rafli Surya P <rafli.rfsp@gmail.com> (https://github.com/rsurya99)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSurya99/ckeditor-tailwind-reset/issues"
+  },
+  "homepage": "https://github.com/RSurya99/ckeditor-tailwind-reset#readme"
+}
