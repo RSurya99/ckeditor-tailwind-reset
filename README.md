@@ -1,4 +1,6 @@
 # CKEditor Tailwind Reset
+[![Npm package monthly downloads](https://badgen.net/npm/dw/ckeditor-tailwind-reset)](https://npmjs.com/package/ckeditor-tailwind-reset) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 
 For you all who use CKEditor with TailwindCSS maybe will get some errors that the style is looks no different. It was caused by Tailwind core plugin called `preflight`. 
 
