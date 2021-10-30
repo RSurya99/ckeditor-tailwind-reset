@@ -136,7 +136,7 @@
 
 .ck-content caption {
     display: table-caption;
-    text-align: -webkit-center;
+    text-align: center;
 }
 
 /* lists */
@@ -163,12 +163,9 @@
 
 .ck-content li {
     display: list-item;
-    text-align: -webkit-match-parent;
+    text-align: match-parent;
 }
 
-/* FIXME: this should also match ::before::marker and ::after::marker but we don't support
-   this yet. When we do, we can remove the code specific to ::before and ::after in
-   RenderListItem::computeMarkerStyle(), see bugs.webkit.org/b/218897. */
 .ck-content ::marker {
     unicode-bidi: isolate;
     font-variant-numeric: tabular-nums;
@@ -185,11 +182,11 @@
 }
 
 .ck-content a:any-link {
-    color: -webkit-link;
+    color: blue;
     text-decoration: underline;
     cursor: auto;
 }
 
 .ck-content a:any-link:active {
-    color: -webkit-activelink;
+    color: red;
 }
