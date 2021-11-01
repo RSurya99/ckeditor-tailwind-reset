@@ -1,6 +1,6 @@
 {
   "name": "ckeditor-tailwind-reset",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "package to reset tailwind style in ckeditor wysiwyg",
   "main": "index.js",
   "scripts": {
