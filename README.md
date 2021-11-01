@@ -28,4 +28,5 @@ the styles will automatically compiled to your css files and boom, the style for
 ## Donate
 
 If you have used this library and it's useful for you, please consider to donate:
+
 [Ko-fi](https://ko-fi.com/rsurya99) | [Trakteer](https://trakteer.id/rsurya99)
