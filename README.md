@@ -1,5 +1,5 @@
 # CKEditor Tailwind Reset
-[![Npm package monthly downloads](https://badgen.net/npm/dm/ckeditor-tailwind-reset)](https://npmjs.com/package/ckeditor-tailwind-reset) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Npm package monthly downloads](https://badgen.net/npm/dt/ckeditor-tailwind-reset)](https://npmjs.com/package/ckeditor-tailwind-reset) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Getting Started
 
