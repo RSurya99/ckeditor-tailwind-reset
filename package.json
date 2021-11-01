@@ -15,7 +15,7 @@
     "ckeditor"
   ],
   "author": "Rafli Surya P <rafli.rfsp@gmail.com> (https://github.com/rsurya99)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RSurya99/ckeditor-tailwind-reset/issues"
   },
