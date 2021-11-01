@@ -1,5 +1,5 @@
 # CKEditor Tailwind Reset
-[![Npm package monthly downloads](https://badgen.net/npm/dw/ckeditor-tailwind-reset)](https://npmjs.com/package/ckeditor-tailwind-reset) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Npm package monthly downloads](https://badgen.net/npm/dm/ckeditor-tailwind-reset)](https://npmjs.com/package/ckeditor-tailwind-reset) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Getting Started
 
@@ -26,5 +26,6 @@ npm i ckeditor-tailwind-reset
 the styles will automatically compiled to your css files and boom, the style for CKEditor WYSISYG will be working now.
 
 ## Donate
+
 If you have used this library and it's useful for you, please consider to donate:
 [Ko-fi](https://ko-fi.com/rsurya99) | [Trakteer](https://trakteer.id/rsurya99)
